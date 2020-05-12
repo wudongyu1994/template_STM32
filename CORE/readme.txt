@@ -1,21 +1,11 @@
-    ÕâÊÇSTÌá¹©µÄ3¸öÆô¶¯ÎÄ¼þ£¬·Ö±ðÊÊÓÃÓÚ²»Í¬ÈÝÁ¿µÄSTM32Ð¾Æ¬¡£
-    ÕâÈý¸öÎÄ¼þÎª£º 
+    è¿™æ˜¯STæä¾›çš„3ä¸ªå¯åŠ¨æ–‡ä»¶ï¼Œåˆ†åˆ«é€‚ç”¨äºŽä¸åŒå®¹é‡çš„STM32èŠ¯ç‰‡ã€‚
+    è¿™ä¸‰ä¸ªæ–‡ä»¶ä¸ºï¼š 
         startup_stm32f10x_ld.s
         startup_stm32f10x_md.s
         startup_stm32f10x_hd.s
-    ÆäÖÐ£¬ld.sÊÊÓÃÓÚÐ¡ÈÝÁ¿ ²úÆ·£»md.sÊÊÓÃÓÚÖÐµÈÈÝÁ¿²úÆ·£»hdÊÊÓÃÓÚ´óÈÝÁ¿²úÆ·£»
-    ÕâÀïµÄÈÝÁ¿ÊÇÖ¸FLASHµÄ´óÐ¡.ÅÐ¶Ï·½·¨ÈçÏÂ£º
-       Ð¡ÈÝÁ¿£ºFLASH¡Ü32K
-       ÖÐÈÝÁ¿£º64K¡ÜFLASH¡Ü128K
-       ´óÈÝÁ¿£º256K¡ÜFLASH
-    ËùÒÔ£¬Çë´ó¼Ò¸ù¾Ý×Ô¼ºËùÓÃµÄSTM32Ð¾Æ¬Ñ¡Ôñ²»Í¬µÄ.sÎÄ¼þ¡£
-                                                        
-
-
-		¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-                µç»°£º020-38271790
-                ´«Õæ£º020-36773971
-	       	¹ºÂò£ºhttp://shop62103354.taobao.com
-                      http://shop62057469.taobao.com
-               	¼¼ÊõÖ§³ÖÂÛÌ³£ºwww.openedv.com
-                ¹«Ë¾ÍøÖ·£ºwww.alientek.com
+    å…¶ä¸­ï¼Œld.sé€‚ç”¨äºŽå°å®¹é‡äº§å“ï¼›md.sé€‚ç”¨äºŽä¸­ç­‰å®¹é‡äº§å“ï¼›hdé€‚ç”¨äºŽå¤§å®¹é‡äº§å“ï¼›
+    è¿™é‡Œçš„å®¹é‡æ˜¯æŒ‡FLASHçš„å¤§å°.åˆ¤æ–­æ–¹æ³•å¦‚ä¸‹ï¼š
+       å°å®¹é‡ï¼šFLASHâ‰¤32K
+       ä¸­å®¹é‡ï¼š64Kâ‰¤FLASHâ‰¤128K
+       å¤§å®¹é‡ï¼š256Kâ‰¤FLASH
+    æ‰€ä»¥ï¼Œè¯·å¤§å®¶æ ¹æ®è‡ªå·±æ‰€ç”¨çš„STM32èŠ¯ç‰‡é€‰æ‹©ä¸åŒçš„.sæ–‡ä»¶ã€‚
